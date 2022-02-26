@@ -28,6 +28,12 @@
   identifier = "blog"
   url = "https://corpling.hypotheses.org/"
 
+  [[main]]
+  name = "contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
+
   [[footer]]
   name = "my HAL CV"
   weight = 1

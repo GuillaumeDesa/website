@@ -5,7 +5,7 @@ copyright = "Guillaume Desagulier 2022"
 description = "Associate Professor in English Linguistics"
 profilePicture = "images/profile.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
