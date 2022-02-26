@@ -2,7 +2,7 @@
   name = "home"
   identifier = "home"
   weight = 100
-  url = "/home/"
+  url = "/about/"
 
   [[main]]
   name = "teaching"
@@ -27,12 +27,6 @@
   weight = 500
   identifier = "blog"
   url = "https://corpling.hypotheses.org/"
-  
-  [[main]]
-  name = "about"
-  weight = 600
-  identifier = "about/"
-  url = "/about"
 
   [[footer]]
   name = "my HAL CV"
