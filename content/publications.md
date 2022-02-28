@@ -20,7 +20,7 @@ description: Guillaume Desagulier's publications
 
 **2021c**. *It is important to note that* partially productive patterns may count as constructions. In J. François (Ed). *L'expansion pluridisciplinaire des Grammaires de Constructions*, pp. 233-264. Caen: Presses Universitaires de Caen. [pdf](https://halshs.archives-ouvertes.fr/halshs-01871034/document)
 
-**2020a**. (with Cameron Morin and Jack Grieve). Dialect syntax in Construction Grammar: theoretical benefits of a constructionist approach to double modals in English. *Belgian Journal of Linguistics*, 34 ``The Wealth and Breadth of Construction-Based Research'', pp.252-62. [publisher](https://doi.org/10.1075/bjl.00050.mor); [pdf](https://hal.archives-ouvertes.fr/hal-03120388/document)
+**2020a**. (with Cameron Morin and Jack Grieve). Dialect syntax in Construction Grammar: theoretical benefits of a constructionist approach to double modals in English. *Belgian Journal of Linguistics*, 34 "The Wealth and Breadth of Construction-Based Research", pp.252-62. [publisher](https://doi.org/10.1075/bjl.00050.mor); [pdf](https://hal.archives-ouvertes.fr/hal-03120388/document)
 
 **2020b**. Multivariate Exploratory Approaches. In Magali Paquot and Stefan Th. Gries (Eds.), *Practical Handbook of Corpus Linguistics*, pp. 435-469. New York: Springer. [pdf](https://halshs.archives-ouvertes.fr/halshs-01926339v3/document)
 
