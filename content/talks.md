@@ -1,4 +1,4 @@
---
+---
 aliases:
 - talks
 - conferences
@@ -6,7 +6,7 @@ aliases:
 author: Guillaume Desagulier
 date: "2011-02-25"
 description: Guillaume Desagulier's talks
---
+---
 
 *forthcoming*. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (17 juin 2022). Maison de la Recherche, Sorbonne Université.
 
