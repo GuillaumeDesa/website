@@ -12,9 +12,9 @@ description: Guillaume Desagulier's teaching
 
 ### Doctoral seminars
 
-**2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé (abstract) correspondant. ED625, Université Sorbonne Nouvelle.
+**2022**. Constitution et exploitation de corpus textuels et traitements statistiques. ED625, Université Sorbonne Nouvelle.
 
-**2022-**. Constitution et exploitation de corpus textuels et traitements statistiques. ED625, Université Sorbonne Nouvelle.
+**2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé (abstract) correspondant. ED625, Université Sorbonne Nouvelle.
 
 ### Invited seminars
 

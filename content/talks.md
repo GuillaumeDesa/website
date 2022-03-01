@@ -8,7 +8,7 @@ date: "2011-02-25"
 description: Guillaume Desagulier's talks
 ---
 
-*forthcoming*. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (17 juin 2022). Maison de la Recherche, Sorbonne Université.
+**forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (17 juin 2022). Maison de la Recherche, Sorbonne Université.
 
 **2021a**. Tracing the shifting collocates of complex prepositions with diachronic word embeddings: *in/at the middle/midst/center/heart of NP*. 11th International Conference on Construction Grammar (ICCG11), "Construction grammars in and between minds, communities, computers". Antwerpen, Belgium.
 
@@ -52,7 +52,7 @@ description: Guillaume Desagulier's talks
 
 **2015c**. Eléments de lexicologie avec R. Une application à un texte ancien en espagnol. "Anciens textes, nouveaux outils, la philologie à l'ère numérique". October 17th, 2015. Université Paris 8 Vincennes-Saint Denis.
 
-**2014a**. Beyond text mining: a linguist’s viewpoint (keynote). International Symposium on Digital Humanities, Digital Humanities and Culture, 5 décembre 2014. Ajou University, Suwon, Corée du Sud.
+**2014a**. Beyond text mining: a linguist’s viewpoint (keynote). International Symposium on Digital Humanities, Digital Humanities and Culture, December 5, 2014. Ajou University, Suwon, Corée du Sud.
 
 **2014b**. Les grammaires de constructions: une approche théorique à l'épreuve des faits. Séminaire CLIMAS "Le corps du texte". Université Bordeaux Montaigne.
 
@@ -64,13 +64,13 @@ description: Guillaume Desagulier's talks
 
 **2013c**. A lesson from associative learning: asymmetric collostructions. "The Future of Big Data - Text-Mining based on Sentiment Word Analysis". Ajou University, Suwon, Corée du Sud.
 
-**2012a**.Quite new methods for a rather old issue: visualizing the constructional idiosyncrasies of *quite* and *rather* in the BNC with multivariate statistics. *ICAME 33*. Katholieke Universiteit Leuven, Belgium.
+**2012a**. Quite new methods for a rather old issue: visualizing the constructional idiosyncrasies of *quite* and *rather* in the BNC with multivariate statistics. *ICAME 33*. Katholieke Universiteit Leuven, Belgium.
 
 **2012b**. The Vagaries of Frequency. Sorbonne Nouvelle University Graduate Linguistics Symposium (SNUGLS 2012). Université Sorbonne Nouvelle-Paris 3, France.
 
 **2012c**. Visualizing collocation data with correspondence analysis. "Cognitive Approaches to Language in France: Data, Theories, and Methods (a dialogue with William Croft)". Université Sorbonne Nouvelle, France.
 
-**2011a**. Quantitative measures of cognitive synonymy: a corpus study of English moderators (*rather*, *quite*, *pretty*, and *fairly*). *44^th Annual Meeting of the Societas Linguistica Europaea*. Universidad de la Rioja, Logroño, Spain.
+**2011a**. Quantitative measures of cognitive synonymy: a corpus study of English moderators (*rather*, *quite*, *pretty*, and *fairly*). *44th Annual Meeting of the Societas Linguistica Europaea*. Universidad de la Rioja, Logroño, Spain.
 
 **2011b**. Quantifying (im)politeness in directives: a multifactorial analysis of hedges in American English. *Linguistic Impoliteness & Rudeness in Communication and Society*. Université Jean Moulin-Lyon 3, France.
 

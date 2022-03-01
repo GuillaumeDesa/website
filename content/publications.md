@@ -10,6 +10,8 @@ description: Guillaume Desagulier's publications
 
 *You can download most of my pre-publication drafts from this list. Other publications can be obtained from me, [HAL](https://cv.archives-ouvertes.fr/guillaume-desagulier), or [Isidore](https://isidore.science/s?q=Guillaume+Desagulier).*
 
+**to appear**. Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*.
+
 **to appear**. (with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In M. Díaz-Campos (Ed). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing.
 
 **to appear**. (with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*.
