@@ -6,15 +6,13 @@ date: "2022-02-28"
 description: Guillaume Desagulier's teaching
 ---
 
-### Undergraduate courses
-
-
+*I will be happy to share licensed course materials with colleagues (R notebooks, slides, activities). Please contact me by email.*
 
 ### Doctoral seminars
 
 **2022**. Constitution et exploitation de corpus textuels et traitements statistiques. ED625, Université Sorbonne Nouvelle.
 
-**2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé (abstract) correspondant. ED625, Université Sorbonne Nouvelle.
+**2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé correspondant. ED625, Université Sorbonne Nouvelle.
 
 ### Invited seminars
 
@@ -25,3 +23,19 @@ description: Guillaume Desagulier's teaching
 **2017**. Statistiques analytiques et multivariées pour la linguistique sous R. Université d'Avignon Pays de Vaucluse.
 
 **2016**. Méthodes de clustering et de classification pour la linguistique. "Introduction aux approches et méthodes en sciences du langage", Maison des Sciences du Langage et de la Communication, Université de Neuchâtel, Switzerland.
+
+### Master's degree level
+
+- Linguistique outillée et traitements statistiques (M2 TAL - Paris Nanterre).
+- Analyse linguistique (MEEF 1 & MEEF 2)
+- Agir en fonctionnaire de l'Etat (agrégation)
+
+### Undergraduate courses
+
+- Grammar (1st year, 2nd year, 3rd year)
+- Didactics & LANSAD
+- Sociolinguistics
+- Corpus linguistics
+- Semantics
+- R programming and statistics for linguists
+

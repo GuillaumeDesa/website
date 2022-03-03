@@ -4,7 +4,7 @@ aliases:
 - conferences
 - workshops
 author: Guillaume Desagulier
-date: "2011-02-25"
+date: "2022-02-25"
 description: Guillaume Desagulier's talks
 ---
 
@@ -16,9 +16,13 @@ description: Guillaume Desagulier's talks
 
 **2021c**. A diachronic perspective on complex prepositions with *middle*, *midst*, *center*, and *heart*. 60e congrès de la SAES, Université de Tours, France.
 
-**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australie. [url](https://slcladal.github.io/opening.html); [vidéo](https://youtu.be/Cof8lWdlRqI)
+**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australie. [url](https://slcladal.github.io/opening.html).
 
-**2021e**.Preuves et présomptions en linguistique de corpus. Séminaire de l'ED 139. Université Paris Nanterre. [video](https://youtu.be/ZoNZXhAP_9I)
+{{< youtube id="Cof8lWdlRqI" >}}
+
+**2021e**.Preuves et présomptions en linguistique de corpus. Séminaire de l'ED 139. Université Paris Nanterre.
+
+{{< youtube id="ZoNZXhAP_9I" >}}
 
 **2020**. `BNC.query()` et `BNC.2014.query()` : deux outils pour l’étude sociolinguistique de l’anglais contemporain et ses prolongements sociologiques. AFLA 2020 : Traiter, explorer, et analyser des corpus : quels apports pour la société ? Cergy, CY University.
 
@@ -30,15 +34,15 @@ description: Guillaume Desagulier's talks
 
 **2018c**. Quel est l'apport des vecteurs lexicaux en linguistique de corpus ? Séminaire du CRISCO, Université de Caen.
 
-**2017a**. *It is important to note that* partially productive patterns may count as constructions. *7th International Conference of the French Cognitive Linguistics Association (AFLiCo 7)*, "Discours, Cognition & Constructions: Implications & Applications". Liège, Belgium.
+**2017a**. Les modèles de sémantique distributionnelle appliqués à des problèmes de traduction. Journée d'étude "Corpus et Traduction". January 13th, 2017. Université Paris 8 Vincennes-Saint Denis.
 
-**2017b**. (with Seongmin Mun et Kyungwon Lee). A visual approach for text analysis using multiword topics. *Eurographics, EuroVis 2017*. Barcelone, Spain (poster).
+**2017b**. *It is important to note that* partially productive patterns may count as constructions. *7th International Conference of the French Cognitive Linguistics Association (AFLiCo 7)*, "Discours, Cognition & Constructions: Implications & Applications". Liège, Belgium.
 
-**2017c**. (with Seongmin Mun et Kyungwon Lee). How can we capture Multiword Expressions? *5th International Conference on Statistical Language and Speech Processing (SLSP 2017)*, Oct 2017, Le Mans (poster).
+**2017c**. (with Seongmin Mun et Kyungwon Lee). A visual approach for text analysis using multiword topics. *Eurographics, EuroVis 2017*. Barcelona, Spain (poster).
 
-**2017d**. Overt stance-marking constructions. Journée d'étude Corpus du Centre de Linguistique en Sorbonne, June 13th 2017, Université Paris-Sorbonne.
+**2017d**. (with Seongmin Mun et Kyungwon Lee). How can we capture Multiword Expressions? *5th International Conference on Statistical Language and Speech Processing (SLSP 2017)*, Le Mans (poster).
 
-**2017e**. Les modèles de sémantique distributionnelle appliqués à des problèmes de traduction. Journée d'étude "Corpus et Traduction". January 13th, 2017. Université Paris 8 Vincennes-Saint Denis.
+**2017e**. Overt stance-marking constructions. Journée d'étude Corpus du Centre de Linguistique en Sorbonne, June 13th 2017, Université Paris-Sorbonne.
 
 **2017f**. Le statut de la productivité dans les grammaires de constructions. Séminaire de recherche HTL Labex EFL 2016-2017, Université Paris-Diderot. [url](https://carnetshtl.hypotheses.org/1702)
 
@@ -48,11 +52,11 @@ description: Guillaume Desagulier's talks
 
 **2015a**. Assessing the productivity of multiple-slot constructions with vocabulary growth curves: how big should the corpus be? *English Linguistics and Corpora (EngCorpora2015)*. Université Paris Est Créteil, France.
 
-**2015b**. Construction Grammar(s) before and after the quantitative turn - What counts as a construction?. Sixième Colloque International de l'Association Française de Linguistique Cognitive (AFLiCo 6), "Langage, Cognition et Société", 28 mai 2015. Université Grenoble-Alpes, France. [url](https://aflico6.sciencesconf.org)
+**2015b**. Construction Grammar(s) before and after the quantitative turn - What counts as a construction?. Sixième Colloque International de l'Association Française de Linguistique Cognitive (AFLiCo 6), "Langage, Cognition et Société", May 28th, 2015. Université Grenoble-Alpes, France. [url](https://aflico6.sciencesconf.org)
 
 **2015c**. Eléments de lexicologie avec R. Une application à un texte ancien en espagnol. "Anciens textes, nouveaux outils, la philologie à l'ère numérique". October 17th, 2015. Université Paris 8 Vincennes-Saint Denis.
 
-**2014a**. Beyond text mining: a linguist’s viewpoint (keynote). International Symposium on Digital Humanities, Digital Humanities and Culture, December 5, 2014. Ajou University, Suwon, Corée du Sud.
+**2014a**. Beyond text mining: a linguist’s viewpoint (keynote). International Symposium on Digital Humanities, Digital Humanities and Culture, December 5th, 2014. Ajou University, Suwon, Corée du Sud.
 
 **2014b**. Les grammaires de constructions: une approche théorique à l'épreuve des faits. Séminaire CLIMAS "Le corps du texte". Université Bordeaux Montaigne.
 

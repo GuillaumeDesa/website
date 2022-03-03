@@ -8,6 +8,8 @@ date: "2022-02-24"
 description: Guillaume Desagulier's publications
 ---
 
+<img src="/images/clsr.png" alt="drawing" width="200"/>
+
 *You can download most of my pre-publication drafts from this list. Other publications can be obtained from me, [HAL](https://cv.archives-ouvertes.fr/guillaume-desagulier), or [Isidore](https://isidore.science/s?q=Guillaume+Desagulier).*
 
 **to appear**. Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*.
