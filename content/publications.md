@@ -4,7 +4,7 @@ aliases:
 - papers
 - book
 author: Guillaume Desagulier
-date: "2022-02-24"
+date: "2022-03-05"
 description: Guillaume Desagulier's publications
 ---
 
@@ -58,7 +58,9 @@ description: Guillaume Desagulier's publications
 
 **2011b**. Quelles alternatives linguistiques à la théorie des faces ? Le cas du japonais. In N. Berlinguez--Kôno and B. Thomann (Eds.), *Japon Pluriel 8: la modernité japonaise en perspective*, 33--42. Paris: Philippe Picquier. [pdf](https://halshs.archives-ouvertes.fr/halshs-00583347/document)
 
-**2010**. (with Philippe Gréa) *Grammars in Construction(s)*, *CogniTextes* 5. [url](https://journals.openedition.org/cognitextes/314)
+**2010a**. (with Philippe Gréa) *Grammars in Construction(s)*, *CogniTextes* 5. [url](https://journals.openedition.org/cognitextes/314)
+
+**2010b**. (with Pascale Leclercq). *Les verbes anglais*. Paris: Larousse.
 
 **2008**. (with Jean-Rémi Lapaire and Jean-Baptiste Guignard) *Du fait grammatical au fait cognitif/From Gram to Mind: Grammar as Cognition* (two volumes, 739 pages). Bordeaux, Presses Universitaires de Bordeaux. [publisher](http://www.lcdpu.fr/livre/?GCOI=27000100605790)
 
@@ -66,7 +68,7 @@ description: Guillaume Desagulier's publications
 
 **2007**. Figures and forces en linguistique cognitive: pour une redéfinition du concept de représentation dans une Grammaire de Constructions Floue. *TLE (Théorie, Littérature, Enseignement)*, *24*, pp. 95--113. [pdf](https://halshs.archives-ouvertes.fr/halshs-00627697/document)
 
-**2006**. (with Pascale Leclercq). *Tout sur les verbes anglais*, Paris: Larousse. Ce manuel a été réédité par Larousse en 2010 sous un nouveau titre: *Les verbes anglais* [publisher](http://www.editions-larousse.fr/les-verbes-anglais-9782035892072).
+**2006**. (with Pascale Leclercq). *Tout sur les verbes anglais*. Paris: Larousse.
 
 **2005**. Grammatical blending and the conceptualization of complex cases of interpretational overlap: the case of *want to*/*wanna*. *Annual Review of Cognitive Linguistics* *3*, pp. 22--40. [pdf](https://halshs.archives-ouvertes.fr/halshs-00338291)
 

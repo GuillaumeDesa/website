@@ -67,11 +67,6 @@ title = "GitHub"
 url = "https://github.com/GuillaumeDesa"
 
 [[socialIcons]]
-icon = "ai ai-zenodo"
-title = "Zenodo"
-url = "https://zenodo.org/search?page=1&size=20&q=owners:%2020288&sort=-publication_date"
-
-[[socialIcons]]
 icon = "fab fa-orcid"
 title = "ORCID"
 url = "https://orcid.org/0000-0003-4895-0788"

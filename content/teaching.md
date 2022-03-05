@@ -2,7 +2,7 @@
 aliases:
 - teaching
 author: Guillaume Desagulier
-date: "2022-02-28"
+date: "2022-03-05"
 description: Guillaume Desagulier's teaching
 ---
 
@@ -37,9 +37,9 @@ description: Guillaume Desagulier's teaching
 
 ### Invited seminars
 
-**2020**. Multivariate exploratory techniques for linguists with R. TaLC (Teaching and Language Corpora) 2020, Université de Perpignan, France. [url](https://corpling.modyco.fr/workshops/TaLC2020/TaLC2020.notebook.html)
+**2020**. Multivariate exploratory techniques for linguists with R. TaLC (Teaching and Language Corpora) 2020, Université de Perpignan, France. [notebook with code and data](https://corpling.modyco.fr/workshops/TaLC2020/TaLC2020.notebook.html)
 
-**2019**. Corpus Linguistics Summer School 2019. University of Birmingham, England. [description](https://corpling.hypotheses.org/2530). [fundamentals](https://halshs.archives-ouvertes.fr/halshs-02908471/document); [correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908476/document); [multiple correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908477/document); [exploratory factor analysis](https://halshs.archives-ouvertes.fr/halshs-02908485/document); [principal component analysis](https://halshs.archives-ouvertes.fr/halshs-02908483/document)
+**2019**. Corpus Linguistics Summer School 2019. University of Birmingham, England. [description](https://corpling.hypotheses.org/2530);  [fundamentals](https://halshs.archives-ouvertes.fr/halshs-02908471/document); [correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908476/document); [multiple correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908477/document); [exploratory factor analysis](https://halshs.archives-ouvertes.fr/halshs-02908485/document); [principal component analysis](https://halshs.archives-ouvertes.fr/halshs-02908483/document)
 
 **2017**. Statistiques analytiques et multivariées pour la linguistique sous R. Université d'Avignon Pays de Vaucluse.
 
