@@ -16,7 +16,7 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
-**to appear**. Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*.
+**to appear**. Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*. [companion files (OSF)](https://osf.io/x32jn/)
 
 **to appear**. (with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In M. Díaz-Campos (Ed). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing.
 

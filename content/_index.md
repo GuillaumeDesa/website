@@ -12,6 +12,8 @@ I am the author of a reference textbook on corpus linguistics with R: [*Corpus L
 
 I have a research blog: [Around the word, A corpus linguist's notebook](https://corpling.hypotheses.org/), where I record reflections and experiments on my practice as a usage-based corpus linguist.
 
+I am the current editor-in-chief of [*CogniTextes*](https://journals.openedition.org/cognitextes/), the journal of the [French Cognitive Linguistics Association](http://www.aflico.fr/en/).
+
 <!--
 This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
 

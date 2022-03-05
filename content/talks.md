@@ -8,7 +8,7 @@ date: "2022-02-25"
 description: Guillaume Desagulier's talks
 ---
 
-**forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (17 juin 2022). Maison de la Recherche, Sorbonne Université.
+**forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
 
 **2021a**. Tracing the shifting collocates of complex prepositions with diachronic word embeddings: *in/at the middle/midst/center/heart of NP*. 11th International Conference on Construction Grammar (ICCG11), "Construction grammars in and between minds, communities, computers". Antwerpen, Belgium.
 
@@ -16,7 +16,7 @@ description: Guillaume Desagulier's talks
 
 **2021c**. A diachronic perspective on complex prepositions with *middle*, *midst*, *center*, and *heart*. 60e congrès de la SAES, Université de Tours, France.
 
-**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australie. [url](https://slcladal.github.io/opening.html).
+**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australia. [url](https://slcladal.github.io/opening.html).
 
 {{< youtube id="Cof8lWdlRqI" >}}
 

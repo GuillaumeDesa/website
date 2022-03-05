@@ -30,7 +30,7 @@
 
   [[main]]
   name = "contact"
-  weight = 500
+  weight = 600
   identifier = "contact"
   url = "/contact/"
 
