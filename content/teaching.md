@@ -30,7 +30,7 @@ description: Guillaume Desagulier's teaching
 
 **2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé correspondant. ED625, Université Sorbonne Nouvelle.
 
-### English for specific objectives (LANSAD)
+### English for specific objectives
 
 **2017**. Anglais pour la recherche à destination des sciences humaines. Formation continue, Université Sorbonne Nouvelle.
 
