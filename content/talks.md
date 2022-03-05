@@ -8,6 +8,8 @@ date: "2022-02-25"
 description: Guillaume Desagulier's talks
 ---
 
+*I have uploaded some of my talks on [my YouTube channel](https://www.youtube.com/channel/UCjfZfTbV4M-gU2zHJ1YSM2g).*
+
 **forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
 
 **2021a**. Tracing the shifting collocates of complex prepositions with diachronic word embeddings: *in/at the middle/midst/center/heart of NP*. 11th International Conference on Construction Grammar (ICCG11), "Construction grammars in and between minds, communities, computers". Antwerpen, Belgium.
