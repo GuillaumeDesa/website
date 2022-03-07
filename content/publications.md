@@ -66,7 +66,7 @@ description: Guillaume Desagulier's publications
 
 **2008**. Cognitive Arguments for a Fuzzy Construction Grammar. In G. Desagulier, J.B. Guignard and J.R. Lapaire (Eds.), *Du fait grammatical au fait cognitif/From Gram to Mind: Grammar as Cognition*, 125--150. Bordeaux: Presses Universitaires de Bordeaux. [pdf](https://halshs.archives-ouvertes.fr/halshs-00627702/document)
 
-**2007**. Figures and forces en linguistique cognitive: pour une redéfinition du concept de représentation dans une Grammaire de Constructions Floue. *TLE (Théorie, Littérature, Enseignement)*, *24*, pp. 95--113. [pdf](https://halshs.archives-ouvertes.fr/halshs-00627697/document)
+**2007**. Figures and forces en linguistique cognitive: pour une redéfinition du concept de représentation dans une Grammaire de Constructions Floue. *TLE (Théorie, Littérature, Enseignement)* *24*, pp. 95--113. [pdf](https://halshs.archives-ouvertes.fr/halshs-00627697/document)
 
 **2006**. (with Pascale Leclercq). *Tout sur les verbes anglais*. Paris: Larousse.
 
