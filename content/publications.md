@@ -70,6 +70,6 @@ description: Guillaume Desagulier's publications
 
 **2006**. (with Pascale Leclercq). *Tout sur les verbes anglais*. Paris: Larousse.
 
-**2005**. Grammatical blending and the conceptualization of complex cases of interpretational overlap: the case of *want to*/*wanna*. *Annual Review of Cognitive Linguistics* *3*, pp. 22--40. [pdf](https://halshs.archives-ouvertes.fr/halshs-00338291)
+**2005**. Grammatical blending and the conceptualization of complex cases of interpretational overlap: the case of *want to*/*wanna*. *Annual Review of Cognitive Linguistics* *3*, pp. 22--40. [pdf](https://halshs.archives-ouvertes.fr/halshs-00338291/document)
 
 **2003**. *Want to*/*wanna*: Verbal Polysemy versus Constructional Compositionality. *Berkeley Linguistics Society* *29*, 91--102. [pdf](http://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/1031/812)
