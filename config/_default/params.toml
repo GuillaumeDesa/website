@@ -2,7 +2,7 @@
 title = "Guillaume Desagulier"
 author = "Guillaume Desagulier"
 copyright = "Guillaume Desagulier 2022"
-description = "Associate Professor of English Linguistics"
+description = "Associate Professor of English Linguistics<br>Université Paris 8"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -11,7 +11,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+images = ["images/logogd.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
