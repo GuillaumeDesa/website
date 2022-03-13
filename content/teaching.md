@@ -29,13 +29,15 @@ description: Guillaume Desagulier's teaching
 
 **2022**. Constitution et exploitation de corpus textuels et traitements statistiques. ED625, Université Sorbonne Nouvelle.
 
-**2012-2021**. Rédaction d'un article de recherche en anglais, ainsi que le résumé correspondant. ED625, Université Sorbonne Nouvelle.
+**2012-2021**. [English for specific purposes] Rédaction d'un article de recherche en anglais, ainsi que le résumé correspondant. ED625, Université Sorbonne Nouvelle.
 
-### English for specific objectives
+**2012-2021**. [English for specific purposes] Prise de parole scientifique en anglais. ED625, Université Sorbonne Nouvelle.
+
+### English for specific purposes
 
 **2017**. Anglais pour la recherche à destination des sciences humaines. Formation continue, Université Sorbonne Nouvelle.
 
-### Invited seminars
+### Invited seminars (statistics)
 
 **2020**. Multivariate exploratory techniques for linguists with R. TaLC (Teaching and Language Corpora) 2020, Université de Perpignan, France. [notebook with code and data](https://corpling.modyco.fr/workshops/TaLC2020/TaLC2020.notebook.html)
 
