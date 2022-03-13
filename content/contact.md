@@ -5,6 +5,7 @@ date: "2022-02-26"
 description: Contact Page
 title:
 ---
+![logo](/images/logogd.png)
 
 #### university
 

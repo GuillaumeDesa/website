@@ -7,6 +7,7 @@ author: Guillaume Desagulier
 date: "2022-03-05"
 description: Guillaume Desagulier's publications
 ---
+![logo](/images/logogd.png)
 
 *You can download most of my pre-publication drafts from this list. Other publications can be obtained from me, [HAL](https://cv.archives-ouvertes.fr/guillaume-desagulier), or [Isidore](https://isidore.science/s?q=Guillaume+Desagulier).*
 

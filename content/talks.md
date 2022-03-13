@@ -7,6 +7,7 @@ author: Guillaume Desagulier
 date: "2022-02-25"
 description: Guillaume Desagulier's talks
 ---
+![logo](/images/logogd.png)
 
 *I have uploaded some of my talks on [my YouTube channel](https://www.youtube.com/channel/UCjfZfTbV4M-gU2zHJ1YSM2g).*
 

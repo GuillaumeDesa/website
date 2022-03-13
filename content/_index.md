@@ -1,6 +1,7 @@
 ---
 author: Guillaume Desagulier
 ---
+![logo](/images/logogd.png)
 
 I am Associate Professor of English Linguistics at [Paris 8 University](https://www.univ-paris8.fr/), France. I am also a researcher at the [MoDyCo laboratory](https://www.modyco.fr/fr/) of the [University of Paris Nanterre](https://www.parisnanterre.fr/). I hold a [PhD in English linguistics](https://halshs.archives-ouvertes.fr/tel-01393210/document) from Bordeaux University and an [Habilitation](https://halshs.archives-ouvertes.fr/tel-01657598/document) from the Université de Paris. I am the recipient of a 5-year honorary position (2017-2022) at the [Institut Universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/1778-guillaume-desagulier.html), a division of the French Ministry of Higher Education that distinguishes university professors for their research excellence. 
 

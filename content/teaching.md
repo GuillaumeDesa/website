@@ -5,6 +5,7 @@ author: Guillaume Desagulier
 date: "2022-03-05"
 description: Guillaume Desagulier's teaching
 ---
+![logo](/images/logogd.png)
 
 *I will be happy to share licensed course materials with colleagues (R notebooks, slides, activities). Please contact me by email.*
 
