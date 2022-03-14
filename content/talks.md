@@ -9,7 +9,7 @@ description: Guillaume Desagulier's talks
 ---
 ![logo](/images/logogd.png)
 
-*I have uploaded some of my talks on [my YouTube channel](https://www.youtube.com/channel/UCjfZfTbV4M-gU2zHJ1YSM2g).*
+*Some of my talks are on [my YouTube channel](https://www.youtube.com/channel/UCjfZfTbV4M-gU2zHJ1YSM2g).*
 
 **forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
 
@@ -41,9 +41,9 @@ description: Guillaume Desagulier's talks
 
 **2017b**. *It is important to note that* partially productive patterns may count as constructions. *7th International Conference of the French Cognitive Linguistics Association (AFLiCo 7)*, "Discours, Cognition & Constructions: Implications & Applications". Liège, Belgium.
 
-**2017c**. (with Seongmin Mun et Kyungwon Lee). A visual approach for text analysis using multiword topics. *Eurographics, EuroVis 2017*. Barcelona, Spain (poster).
+**2017c**. (with Seongmin Mun et Kyungwon Lee). A visual approach for text analysis using multiword topics. *Eurographics, EuroVis 2017*. Barcelona, Spain. (poster). [pdf](https://halshs.archives-ouvertes.fr/halshs-01590990/document)
 
-**2017d**. (with Seongmin Mun et Kyungwon Lee). How can we capture Multiword Expressions? *5th International Conference on Statistical Language and Speech Processing (SLSP 2017)*, Le Mans (poster).
+**2017d**. (with Seongmin Mun et Kyungwon Lee). How can we capture Multiword Expressions? *5th International Conference on Statistical Language and Speech Processing (SLSP 2017)*, Le Mans (poster). [pdf](https://hal.archives-ouvertes.fr/hal-01705515/document)
 
 **2017e**. Overt stance-marking constructions. Journée d'étude Corpus du Centre de Linguistique en Sorbonne, June 13th 2017, Université Paris-Sorbonne.
 
