@@ -7,7 +7,7 @@ title:
 ---
 ![logo](/images/logogd.png)
 
-#### university
+### university
 
 Université Paris 8\
 2, rue de la Liberté\
@@ -15,7 +15,7 @@ Université Paris 8\
 voice: +33 (0)1 49 40 68 35\
 fax: +33 (0)1 49 40 68 48
 
-#### lab
+### lab
 
 UMR 7114 MoDyCo\
 Bâtiment A - bureau 403b\
