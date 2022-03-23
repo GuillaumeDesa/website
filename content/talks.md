@@ -55,6 +55,8 @@ description: Guillaume Desagulier's talks
 
 **2016b**. Modeling complex grammar networks: a tentative roadmap. KAIST, Daejeon, Corée du Sud.
 
+**2016c**. [discussant] Journée d'étude ENS-LaTTiCe "Multimodalité et Constructions". École Normale Supérieure. 
+
 **2015a**. Assessing the productivity of multiple-slot constructions with vocabulary growth curves: how big should the corpus be? *English Linguistics and Corpora (EngCorpora2015)*. Université Paris Est Créteil, France.
 
 **2015b**. Construction Grammar(s) before and after the quantitative turn - What counts as a construction?. Sixième Colloque International de l'Association Française de Linguistique Cognitive (AFLiCo 6), "Langage, Cognition et Société", May 28th, 2015. Université Grenoble-Alpes, France. [url](https://aflico6.sciencesconf.org)
