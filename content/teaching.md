@@ -24,6 +24,7 @@ description: Guillaume Desagulier's teaching
 - Corpus linguistics and statistics for NLP students (M2 TAL - Paris Nanterre).
 - Analyse linguistique (MEEF 1 & MEEF 2)
 - Agir en fonctionnaire de l'Etat (agrégation)
+- Media studies (MC2L, Paris 8)
 
 ### PhD
 
