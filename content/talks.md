@@ -29,6 +29,8 @@ description: Guillaume Desagulier's talks
 
 {{< youtube id="ZoNZXhAP_9I" >}}
 
+**2021f**. Modéliser un réseau de constructions : enjeux, écueils et desiderata. Journée d'études sur les réseaux lexicaux. INALCO. [url](http://www.inalco.fr/evenement/journee-etudes-reseaux-lexicaux)
+
 **2020**. `BNC.query()` et `BNC.2014.query()` : deux outils pour l’étude sociolinguistique de l’anglais contemporain et ses prolongements sociologiques. AFLA 2020 : Traiter, explorer, et analyser des corpus : quels apports pour la société ? Cergy, CY University.
 
 **2019**. Sémantique distributionnelle et diachronie : Les intensifieurs de l’anglais. Séminaire du LIFO. Université d'Orléans, France. [url](https://tinyurl.com/LIFO2019)
