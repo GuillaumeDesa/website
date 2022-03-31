@@ -11,7 +11,7 @@ description: Guillaume Desagulier's talks
 
 *Some of my talks are on [my YouTube channel](https://www.youtube.com/channel/UCjfZfTbV4M-gU2zHJ1YSM2g).*
 
-*I also got to ask Noam Chomsky why he thought that corpus linguistics doesn't mean anything ([video](https://youtu.be/cVKPd7edpII?t=5401)).*
+*I asked Noam Chomsky why he thought that corpus linguistics doesn't mean anything ([video](https://youtu.be/cVKPd7edpII?t=5401)).*
 
 **forthcoming**. Exploiter les corpus en xml avec R. Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
 
