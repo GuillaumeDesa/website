@@ -2,7 +2,10 @@
 title = "Guillaume Desagulier"
 author = "Guillaume Desagulier"
 copyright = "Guillaume Desagulier 2022"
-description = "Associate Professor of English Linguistics"
+description = """
+Associate Professor of English Linguistics
+at Université Paris 8
+"""
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -20,7 +23,7 @@ doNotLoadAnimations = false
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # Google Analytics
-#googleAnalytics = "G-4HGRL3P33E"
+gtagId = "G-4HGRL3P33E"
 googleAnalytics = "UA-221883227-1"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
