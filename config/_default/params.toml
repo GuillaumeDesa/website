@@ -24,7 +24,7 @@ doNotLoadAnimations = false
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # Google Analytics
 gtagId = "G-4HGRL3P33E"
-googleAnalytics = "UA-221883227-1"
+#googleAnalytics = "UA-221883227-1"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
 listDateFormat = "2/1/2006"
