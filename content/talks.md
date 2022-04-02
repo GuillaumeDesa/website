@@ -21,7 +21,7 @@ description: Guillaume Desagulier's talks
 
 **2021c**. A diachronic perspective on complex prepositions with *middle*, *midst*, *center*, and *heart*. 60e congrès de la SAES, Université de Tours, France.
 
-**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australia. [url](https://slcladal.github.io/opening.html).
+**2021d**. Diachronic linguistics with distributional semantic models in R. LADAL Opening Webinar Series 2021. Brisbane, Australia. [url](https://slcladal.github.io/opening.html); [presentation + code](https://corpling.modyco.fr/workshops/LADAL/desagulier.ladal.2021.html)
 
 {{< youtube id="Cof8lWdlRqI" >}}
 
