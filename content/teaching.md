@@ -44,6 +44,8 @@ description: Guillaume Desagulier's teaching
 
 **2019**. Corpus Linguistics Summer School 2019. University of Birmingham, England. [description](https://corpling.hypotheses.org/2530);  [fundamentals](https://halshs.archives-ouvertes.fr/halshs-02908471/document); [correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908476/document); [multiple correspondence analysis](https://halshs.archives-ouvertes.fr/halshs-02908477/document); [exploratory factor analysis](https://halshs.archives-ouvertes.fr/halshs-02908485/document); [principal component analysis](https://halshs.archives-ouvertes.fr/halshs-02908483/document)
 
+**2018**. Multivariate statistics in corpus-linguistic analyses. Bilingual seminar of the PhD school CUSO 2018 (Computer Science and Linguistics). Les Diablerets, Switzerland, October 22-24th 2018.
+
 **2017**. Statistiques analytiques et multivariées pour la linguistique sous R. Université d'Avignon Pays de Vaucluse.
 
 **2016**. Méthodes de clustering et de classification pour la linguistique. "Introduction aux approches et méthodes en sciences du langage", Maison des Sciences du Langage et de la Communication, Université de Neuchâtel, Switzerland.
