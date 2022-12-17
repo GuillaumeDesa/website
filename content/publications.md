@@ -17,9 +17,11 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
+**2022**. (second author, with Seongmin Mun) How Do Transformer-Architecture Models Address Polysemy of Korean Adverbial Postpositions? *Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures*. Association for Computational Linguistics. [pdf](https://aclanthology.org/2022.deelio-1.2.pdf)
+
 **2022**. <span style="color:red">new!</span> Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*. [url](https://www.degruyter.com/document/doi/10.1515/cog-2021-0128/html); [companion files (OSF)](https://osf.io/x32jn/)
 
-**to appear**. (with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In M. Díaz-Campos (Ed). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing.
+**to appear**. (first author, with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In M. Díaz-Campos (Ed). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing.
 
 **to appear**. (with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*.
 
