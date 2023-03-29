@@ -13,7 +13,9 @@ description: Guillaume Desagulier's talks
 
 *I asked Noam Chomsky why he thought that corpus linguistics doesn't mean anything ([video](https://youtu.be/cVKPd7edpII?t=5401)).*
 
-**forthcoming**. Des lignes de commande aux scripts interactifs : comment optimiser l’utilisation de R en linguistique de corpus ? Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
+**2023** (with Thomas Gervais d’Aldin, Thomas, Nora Aoues, and Bertisa Grezda) Optimising the network of complex prepositional locative constructions in French. 12th International Conference on Construction Grammar (ICCG12). Prague, 19-21 May, 2023.
+
+**2022**. Des lignes de commande aux scripts interactifs : comment optimiser l’utilisation de R en linguistique de corpus ? Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.
 
 **2021a**. Tracing the shifting collocates of complex prepositions with diachronic word embeddings: *in/at the middle/midst/center/heart of NP*. 11th International Conference on Construction Grammar (ICCG11), "Construction grammars in and between minds, communities, computers". Antwerpen, Belgium.
 
