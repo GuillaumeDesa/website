@@ -17,13 +17,15 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
+**to appear**. (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*.
+
 **to appear**. (first author, with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In M. Díaz-Campos (Ed). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing.
 
-**to appear**. (with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*.
+**2022**. <span style="color:red">new!</span> (second author, with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*, HS-39. [url](https://journals.openedition.org/corela/15980)
 
-**2022**. <span style="color:red">new!</span> (second author, with Seongmin Mun) How Do Transformer-Architecture Models Address Polysemy of Korean Adverbial Postpositions? *Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures*. Association for Computational Linguistics. [pdf](https://aclanthology.org/2022.deelio-1.2.pdf)
+**2022**. (second author, with Seongmin Mun) How Do Transformer-Architecture Models Address Polysemy of Korean Adverbial Postpositions? *Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures*. Association for Computational Linguistics. [pdf](https://aclanthology.org/2022.deelio-1.2.pdf)
 
-**2022**. <span style="color:red">new!</span> Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*. [url](https://www.degruyter.com/document/doi/10.1515/cog-2021-0128/html); [companion files (OSF)](https://osf.io/x32jn/)
+**2022**. Changes *in the midst of* a construction network: a diachronic construction grammar approach to complex prepositions denoting internal location. *Cognitive Linguistics*. [url](https://www.degruyter.com/document/doi/10.1515/cog-2021-0128/html); [companion files (OSF)](https://osf.io/x32jn/)
 
 **2021a**. (with Caroline Rossi and Lucía Gómez Vicente). *AFLiCo Lecture Series 2020*, *CogniTextes* 21. [url](https://journals.openedition.org/cognitextes/1936)
 
