@@ -12,7 +12,9 @@ description: Guillaume Desagulier's homepage
 
 As of September 2023, I will be full professor of English Linguistics at [Bordeaux-Montaigne University](https://www.u-bordeaux-montaigne.fr/fr/universite/organisation/unites_de_formation/langues_et_civilisations/etudes-des-mondes-anglophones.html). I am looking forward to joining my new lab: [CLIMAS](https://climas.u-bordeaux-montaigne.fr/).
 
-Between 2006 and 2023, I was associate professor of Linguistics at [Paris 8 University](https://www.univ-paris8.fr/), France. I was also a researcher at the [MoDyCo laboratory](https://www.modyco.fr/fr/) of the [University of Paris Nanterre](https://www.parisnanterre.fr/). I hold a PhD from Bordeaux-Montaigne University and a Habilitation from Université de Paris. 
+Between 2006 and 2023, I was associate professor of Linguistics at [Paris 8 University](https://www.univ-paris8.fr/), France. I was also a researcher at the [MoDyCo laboratory](https://www.modyco.fr/fr/) of the [University of Paris Nanterre](https://www.parisnanterre.fr/). 
+
+I hold a PhD from Bordeaux-Montaigne University and a Habilitation from Université de Paris. 
 
 I am the recipient of a 5-year honorary position (2017-2022) at the [Institut Universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/1778-guillaume-desagulier.html), a division of the French Ministry of Higher Education that distinguishes university professors for their research excellence.
 
