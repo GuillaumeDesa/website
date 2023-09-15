@@ -17,7 +17,9 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
-**to appear**. (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*.
+**to appear**. (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*.
+
+**2023**. <span style="color:red">new!</span> (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*. [pdf](https://authors.elsevier.com/c/1hlr55YrU-LXl)
 
 **2023**. <span style="color:red">new!</span> (first author, with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In Manuel Díaz-Campos & Sonia Balasch (Eds). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing. [pdf](https://shs.hal.science/halshs-04171386/file/Cognitive_Linguistics_and_a_usage_based_approach_to_the_study_of_semantics_and_pragmatics__1_.pdf)
 
