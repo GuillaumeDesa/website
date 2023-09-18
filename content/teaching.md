@@ -2,7 +2,7 @@
 aliases:
 - teaching
 author: Guillaume Desagulier
-date: "2022-03-05"
+date: "2023-09-18"
 description: Guillaume Desagulier's teaching
 ---
 ![logo](/images/logogd.png)
