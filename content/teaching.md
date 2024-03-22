@@ -38,7 +38,9 @@ description: Guillaume Desagulier's teaching
 
 **2017**. Anglais pour la recherche à destination des sciences humaines. Formation continue, Université Sorbonne Nouvelle.
 
-### Invited seminars (statistics)
+### Invited workshops (corpus linguistics & statistics)
+
+**2024**. R pour les linguistes. Conférence universitaire de Suisse occidentale (CUSO). Université de Fribourg.
 
 **2020**. Multivariate exploratory techniques for linguists with R. TaLC (Teaching and Language Corpora) 2020, Université de Perpignan, France. [notebook with code and data](https://corpling.modyco.fr/workshops/TaLC2020/TaLC2020.notebook.html)
 
