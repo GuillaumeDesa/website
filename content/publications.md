@@ -17,7 +17,7 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
-**2024**. (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*. [pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/820D880CE4725C390A592CF09C26378D/S1360674323000576a.pdf/a-social-turn-for-construction-grammar-double-modals-on-british-twitter.pdf)
+**2024**. <span style="color:red">new!</span> (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*. [pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/820D880CE4725C390A592CF09C26378D/S1360674323000576a.pdf/a-social-turn-for-construction-grammar-double-modals-on-british-twitter.pdf)
 
 **2023**. <span style="color:red">new!</span> (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*. [pdf](https://authors.elsevier.com/c/1hlr55YrU-LXl)
 
