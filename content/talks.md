@@ -13,6 +13,10 @@ description: Guillaume Desagulier's talks
 
 *I asked Noam Chomsky why he thought that corpus linguistics doesn't mean anything ([video](https://youtu.be/cVKPd7edpII?t=5401)).*
 
+**2024** Changements au coeur d'un réseau de constructions : étude diachronique des prépositions complexes dénotant une localisation interne en anglais. Séminaire STL. Université de Lille, France. May 31st, 2024. ([slides](https://corpling.modyco.fr/workshops/Lille2024/desagulier.lille.2024.pdf), .pdf)
+
+**2024** (with Philippe Gréa) Arbre formel ou forêt conceptuelle. [AFLiCo 9](https://aflico9.sciencesconf.org/), Lyon, France.
+
 **2023** (with Thomas Gervais d’Aldin, Thomas, Nora Aoues, and Bertisa Grezda) Optimising the network of complex prepositional locative constructions in French. 12th International Conference on Construction Grammar (ICCG12). Prague, 19-21 May, 2023.
 
 **2022**. Des lignes de commande aux scripts interactifs : comment optimiser l’utilisation de R en linguistique de corpus ? Journée d'étude sur les outils d’exploration de corpus numériques organisée par le Centre de linguistique en Sorbonne et par Sens Texte Informatique Histoire. (June 17, 2022). Maison de la Recherche, Sorbonne Université.

@@ -1,7 +1,7 @@
 
 title = "Guillaume Desagulier"
 author = "Guillaume Desagulier"
-copyright = "Guillaume Desagulier 2022"
+copyright = "Guillaume Desagulier 2024"
 description = """
 Professor of English Linguistics
 at Bordeaux-Montaigne University (France)
@@ -58,7 +58,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:gdesagulier@univ-paris8.fr"
+url = "mailto:gdesagulier at u-bordeaux-montaigne%dot%fr"
 
 [[socialIcons]]
 icon = "fab fa-twitter"
