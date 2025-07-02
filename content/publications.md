@@ -16,14 +16,16 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva.jpeg" caption="Les verbes anglais (Larousse)">}}
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
+ 
+**2025**. <span style="color:red">new!</span> [outreach] "Vocabulaire et diversité linguistique : comment l’IA appauvrit le langage", *The Conversation France*. [online](https://theconversation.com/vocabulaire-et-diversite-linguistique-comment-lia-appauvrit-le-langage-252944)
 
-**2024**. <span style="color:red">new!</span> (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*. [pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/820D880CE4725C390A592CF09C26378D/S1360674323000576a.pdf/a-social-turn-for-construction-grammar-double-modals-on-british-twitter.pdf)
+**2024**. (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*. [pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/820D880CE4725C390A592CF09C26378D/S1360674323000576a.pdf/a-social-turn-for-construction-grammar-double-modals-on-british-twitter.pdf)
 
-**2023**. <span style="color:red">new!</span> (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*. [pdf](https://authors.elsevier.com/c/1hlr55YrU-LXl)
+**2023**. (with Anne Lacheret, Mathilde de St Léger, Karin Heidlmayr). The syntactic marking of emotional intensity: Psycholinguistic evidence from French. *Lingua*. [pdf](https://authors.elsevier.com/c/1hlr55YrU-LXl)
 
-**2023**. <span style="color:red">new!</span> (first author, with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In Manuel Díaz-Campos & Sonia Balasch (Eds). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing. [pdf](https://shs.hal.science/halshs-04171386/file/Cognitive_Linguistics_and_a_usage_based_approach_to_the_study_of_semantics_and_pragmatics__1_.pdf)
+**2023**. (first author, with Philippe Monneret). Cognitive Linguistics and a usage-based approach to the study of semantics and pragmatics. In Manuel Díaz-Campos & Sonia Balasch (Eds). *The Handbook of Usage-Based Linguistics*. Blackwell Publishing. [pdf](https://shs.hal.science/halshs-04171386/file/Cognitive_Linguistics_and_a_usage_based_approach_to_the_study_of_semantics_and_pragmatics__1_.pdf)
 
-**2023**. <span style="color:red">new!</span> (second author, with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*, HS-39. [url](https://journals.openedition.org/corela/15980)
+**2023**. (second author, with Philippe Gréa). Arbre formel ou forêt conceptuelle ? *Corela*, HS-39. [url](https://journals.openedition.org/corela/15980)
 
 **2022**. (second author, with Seongmin Mun) How Do Transformer-Architecture Models Address Polysemy of Korean Adverbial Postpositions? *Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures*. Association for Computational Linguistics. [pdf](https://aclanthology.org/2022.deelio-1.2.pdf)
 
