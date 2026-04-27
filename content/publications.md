@@ -16,8 +16,11 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva.jpeg" caption="Les verbes anglais (Larousse)">}}
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
+
+**2026**. <span style="color:red">new!</span> Gréa, Philippe, Desagulier, Guillaume, Feltgen, Quentin, Villoing, Florence and Lehmann, Sabine. "Shades of entrenchment and conventionalization: the rise of marron in French" *Cognitive Linguistics*. [online](https://doi.org/10.1515/cog-2025-0076)
+                     [online](https://theconversation.com/vocabulaire-et-diversite-linguistique-comment-lia-appauvrit-le-langage-252944)
  
-**2025**. <span style="color:red">new!</span> [outreach] "Vocabulaire et diversité linguistique : comment l’IA appauvrit le langage", *The Conversation France*. [online](https://theconversation.com/vocabulaire-et-diversite-linguistique-comment-lia-appauvrit-le-langage-252944)
+**2025**. [outreach] "Vocabulaire et diversité linguistique : comment l’IA appauvrit le langage", *The Conversation France*. [online](https://theconversation.com/vocabulaire-et-diversite-linguistique-comment-lia-appauvrit-le-langage-252944)
 
 **2024**. (with Cameron Morin, first author, and Jack Grieve). A social turn for Construction Grammar: double modals on British Twitter. *English Language and Linguistics*. [pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/820D880CE4725C390A592CF09C26378D/S1360674323000576a.pdf/a-social-turn-for-construction-grammar-double-modals-on-british-twitter.pdf)
 
