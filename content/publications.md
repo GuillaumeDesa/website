@@ -19,9 +19,9 @@ description: Guillaume Desagulier's publications
 
 **2026**. <span style="color:red">new!</span> Gréa, Philippe, Desagulier, Guillaume, Feltgen, Quentin, Villoing, Florence and Lehmann, Sabine. "Shades of entrenchment and conventionalization: the rise of marron in French" *Cognitive Linguistics*. [online](https://doi.org/10.1515/cog-2025-0076)
 
-**2026** Statistics for Text Analysis, *Reference Module in Social Sciences*, Elsevier, [online](https://doi.org/10.1016/B978-0-323-95504-1.01530-1)
+**2026** <span style="color:red">new!</span> Statistics for Text Analysis, *Reference Module in Social Sciences*, Elsevier, [online](https://doi.org/10.1016/B978-0-323-95504-1.01530-1)
 
-**2026** Families of constructions, *Reference Module in Social Sciences*, Elsevier, [online](https://doi.org/10.1016/B978-0-323-95504-1.01228-X)
+**2026** <span style="color:red">new!</span> Families of constructions, *Reference Module in Social Sciences*, Elsevier, [online](https://doi.org/10.1016/B978-0-323-95504-1.01228-X)
  
 **2025**. [outreach] "Vocabulaire et diversité linguistique : comment l’IA appauvrit le langage", *The Conversation France*. [online](https://theconversation.com/vocabulaire-et-diversite-linguistique-comment-lia-appauvrit-le-langage-252944)
 
