@@ -17,6 +17,8 @@ description: Guillaume Desagulier's publications
   {{< figure src="/images/books/tslva1.jpeg" caption="Tout sur les verbes anglais (Larousse)">}}
 {{< /gallery >}}
 
+**to appear**. <span style="color:red">new!</span> "De la numération à l’attention : soixante ans d’évolutions méthodologiques en lexicologie quantitative et en linguistique de corpus" *Langages*. [journal](https://www.revues.armand-colin.com/lettres-langue/langages)
+
 **2026**. <span style="color:red">new!</span> Gréa, Philippe, Desagulier, Guillaume, Feltgen, Quentin, Villoing, Florence and Lehmann, Sabine. "Shades of entrenchment and conventionalization: the rise of marron in French" *Cognitive Linguistics*. [online](https://doi.org/10.1515/cog-2025-0076)
 
 **2026** <span style="color:red">new!</span> Statistics for Text Analysis, *Reference Module in Social Sciences*, Elsevier, [online](https://doi.org/10.1016/B978-0-323-95504-1.01530-1)
